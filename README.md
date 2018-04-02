@@ -1,2 +1,1 @@
-# job
-my job
+# Leave a trace for one's own time.
